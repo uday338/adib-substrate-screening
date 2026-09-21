@@ -1,0 +1,158 @@
+Screening space: 67 chemical systems
+  element    19  Conventional current-collector metals and every single-element reference material in the literature table (C = graphite, the nearest MP proxy for graphite paper / glassy carbon).
+  nitride     9  Metallic transition-metal nitrides; TiN and Cr2N current collectors were measured stable to 2.5-3 V vs Al in AlCl3:[EMIM]Cl (Wang et al., Adv. Sci. 2018).
+  carbide     9  Metallic refractory carbides, chemically analogous to the nitrides. Hypothesis: no chloroaluminate test found.
+  boride      9  Metallic transition-metal borides (e.g. TiB2, ZrB2), conductive and chemically inert. Hypothesis: no chloroaluminate test found.
+  silicide    9  Metallic transition-metal silicides (e.g. MoSi2, WSi2, TiSi2). Hypothesis: no chloroaluminate test found.
+  aluminide  12  Pre-aluminised substrates: an Al-rich aluminide in equilibrium with Al cannot alloy further during plating. Hypothesis, motivated by Al-V intermetallics forming during Al underpotential deposition on V (Cvetkovic et al., Metals 2021).
+  55 thermo-document sets to fetch
+  thermo Ag-Al-Cl          32 docs
+  thermo Al-Au-Cl          37 docs
+  thermo Al-B-Cl-Cr        70 docs
+  thermo Al-B-Cl-Hf        58 docs
+  thermo Al-B-Cl-Mo        84 docs
+  thermo Al-B-Cl-Nb        60 docs
+  thermo Al-B-Cl-Ta        68 docs
+  thermo Al-B-Cl-Ti        85 docs
+  thermo Al-B-Cl-V         70 docs
+  thermo Al-B-Cl-W         66 docs
+  thermo Al-B-Cl-Zr        78 docs
+  thermo Al-C-Cl          101 docs
+  thermo Al-C-Cl-Cr       131 docs
+  thermo Al-C-Cl-Hf       130 docs
+  thermo Al-C-Cl-Mo       147 docs
+  thermo Al-C-Cl-Nb       135 docs
+  thermo Al-C-Cl-Ta       140 docs
+  thermo Al-C-Cl-Ti       159 docs
+  thermo Al-C-Cl-V        141 docs
+  thermo Al-C-Cl-W        139 docs
+  thermo Al-C-Cl-Zr       154 docs
+  thermo Al-Cl             14 docs
+  thermo Al-Cl-Co          40 docs
+  thermo Al-Cl-Cr          34 docs
+  thermo Al-Cl-Cr-N       173 docs
+  thermo Al-Cl-Cr-Si       95 docs
+  thermo Al-Cl-Cu          52 docs
+  thermo Al-Cl-Fe          48 docs
+  thermo Al-Cl-Hf          30 docs
+  thermo Al-Cl-Hf-N        79 docs
+  thermo Al-Cl-Mg          66 docs
+  thermo Al-Cl-Mo          48 docs
+  thermo Al-Cl-Mo-N       106 docs
+  thermo Al-Cl-Mo-Si      110 docs
+  thermo Al-Cl-N-Nb        92 docs
+  thermo Al-Cl-N-Ta       100 docs
+  thermo Al-Cl-N-Ti       108 docs
+  thermo Al-Cl-N-V         90 docs
+  thermo Al-Cl-N-W        100 docs
+  thermo Al-Cl-N-Zr       108 docs
+  thermo Al-Cl-Nb          30 docs
+  thermo Al-Cl-Nb-Si       93 docs
+  thermo Al-Cl-Ni          43 docs
+  thermo Al-Cl-Ni-Si      107 docs
+  thermo Al-Cl-Pt          41 docs
+  thermo Al-Cl-Si-Ta       93 docs
+  thermo Al-Cl-Si-Ti      120 docs
+  thermo Al-Cl-Si-V        98 docs
+  thermo Al-Cl-Si-W        89 docs
+  thermo Al-Cl-Si-Zr      111 docs
+  thermo Al-Cl-Ta          36 docs
+  thermo Al-Cl-Ti          55 docs
+  thermo Al-Cl-V           39 docs
+  thermo Al-Cl-W           32 docs
+  thermo Al-Cl-Zr          48 docs
+  55 electrolyte phase diagrams needed, 45 to fetch
+  ! Al-B-Cl-Ti failed: Kernel error -> Generic S3 error
+          [31m↳[0m Error performing GET https://s3.us-east-1.amazonaws.com/materialsproject-build/objects/phase-diagrams/_delta_log/_last_checkpoint in 12.0019733s, after 3 retries, max_retries
+           [31m↳[0m 3, retry_timeout
+            [31m↳[0m 180s  - HTTP error
+             [31m↳[0m error sending request
+              [31m↳[0m client error (Connect)
+               [31m↳[0m dns error
+                [31m↳[0m No such host is known. (os error 11001)
+
+  ! Al-C-Cl failed: Kernel error -> Generic S3 error
+          [31m↳[0m Error performing GET https://s3.us-east-1.amazonaws.com/materialsproject-build/objects/phase-diagrams/_delta_log/_last_checkpoint in 8058.2858261s, after 3 retries, max_retries
+           [31m↳[0m 3, retry_timeout
+            [31m↳[0m 180s  - HTTP error
+             [31m↳[0m error sending request
+              [31m↳[0m client error (Connect)
+               [31m↳[0m dns error
+                [31m↳[0m No such host is known. (os error 11001)
+
+  ! Al-C-Cl-Cr failed: Kernel error -> Generic S3 error
+          [31m↳[0m Error performing GET https://s3.us-east-1.amazonaws.com/materialsproject-build/objects/phase-diagrams/_delta_log/_last_checkpoint in 12.38635s, after 3 retries, max_retries
+           [31m↳[0m 3, retry_timeout
+            [31m↳[0m 180s  - HTTP error
+             [31m↳[0m error sending request
+              [31m↳[0m client error (Connect)
+               [31m↳[0m dns error
+                [31m↳[0m No such host is known. (os error 11001)
+
+  ! Al-C-Cl-Hf failed: Kernel error -> Generic S3 error
+          [31m↳[0m Error performing GET https://s3.us-east-1.amazonaws.com/materialsproject-build/objects/phase-diagrams/_delta_log/_last_checkpoint in 8058.8642912s, after 3 retries, max_retries
+           [31m↳[0m 3, retry_timeout
+            [31m↳[0m 180s  - HTTP error
+             [31m↳[0m error sending request
+              [31m↳[0m client error (Connect)
+               [31m↳[0m dns error
+                [31m↳[0m No such host is known. (os error 11001)
+
+  ! Al-C-Cl-Mo failed: Kernel error -> Generic S3 error
+          [31m↳[0m Error performing GET https://s3.us-east-1.amazonaws.com/materialsproject-build/objects/phase-diagrams/_delta_log/_last_checkpoint in 8059.0294569s, after 3 retries, max_retries
+           [31m↳[0m 3, retry_timeout
+            [31m↳[0m 180s  - HTTP error
+             [31m↳[0m error sending request
+              [31m↳[0m client error (Connect)
+               [31m↳[0m dns error
+                [31m↳[0m No such host is known. (os error 11001)
+
+  ! Al-C-Cl-Nb failed: Kernel error -> Generic S3 error
+          [31m↳[0m Error performing GET https://s3.us-east-1.amazonaws.com/materialsproject-build/objects/phase-diagrams/_delta_log/_last_checkpoint in 8058.8582748s, after 3 retries, max_retries
+           [31m↳[0m 3, retry_timeout
+            [31m↳[0m 180s  - HTTP error
+             [31m↳[0m error sending request
+              [31m↳[0m client error (Connect)
+               [31m↳[0m dns error
+                [31m↳[0m No such host is known. (os error 11001)
+
+  Al-C-Cl-Ta       142 entries (163s)
+  Al-C-Cl-Ti       161 entries (183s)
+  Al-C-Cl-V        143 entries (156s)
+  Al-C-Cl-W        141 entries (139s)
+  Al-C-Cl-Zr       156 entries (156s)
+  Al-Cl             14 entries (108s)
+  Al-Cl-Co          40 entries (63s)
+  Al-Cl-Cr          34 entries (72s)
+  Al-Cl-Cr-N       172 entries (82s)
+  Al-Cl-Cr-Si       95 entries (69s)
+  Al-Cl-Cu          52 entries (99s)
+  Al-Cl-Fe          48 entries (46s)
+  Al-Cl-Hf          30 entries (42s)
+  Al-Cl-Hf-N        77 entries (53s)
+  Al-Cl-Mg          67 entries (118s)
+  Al-Cl-Mo          48 entries (43s)
+  Al-Cl-Mo-N       104 entries (64s)
+  Al-Cl-Mo-Si      110 entries (84s)
+  Al-Cl-N-Nb        90 entries (72s)
+  Al-Cl-N-Ta        98 entries (65s)
+  Al-Cl-N-Ti       106 entries (76s)
+  Al-Cl-N-V         88 entries (50s)
+  Al-Cl-N-W         98 entries (38s)
+  Al-Cl-N-Zr       106 entries (44s)
+  Al-Cl-Nb          30 entries (171s)
+  Al-Cl-Nb-Si       93 entries (45s)
+  Al-Cl-Ni          43 entries (192s)
+  Al-Cl-Ni-Si      107 entries (43s)
+  Al-Cl-Pt          41 entries (34s)
+  Al-Cl-Si-Ta       93 entries (41s)
+  Al-Cl-Si-Ti      120 entries (60s)
+  Al-Cl-Si-V        98 entries (53s)
+  Al-Cl-Si-W        89 entries (56s)
+  Al-Cl-Si-Zr      111 entries (54s)
+  Al-Cl-Ta          36 entries (34s)
+  Al-Cl-Ti          55 entries (132s)
+  Al-Cl-V           39 entries (111s)
+  Al-Cl-W           32 entries (29s)
+  Al-Cl-Zr          48 entries (35s)
+  still missing: ['Al-B-Cl-Ti', 'Al-C-Cl', 'Al-C-Cl-Cr', 'Al-C-Cl-Hf', 'Al-C-Cl-Mo', 'Al-C-Cl-Nb']

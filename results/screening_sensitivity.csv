@@ -1,0 +1,16 @@
+ehull_window_scale,anodic_cutoff_V,n_candidates,also_stable_vs_Al_at_0V,families
+0.5,0.0,211,31,"aluminide:64, silicide:38, nitride:35, boride:35, carbide:22, element:17"
+0.5,0.5,84,11,"boride:28, silicide:19, nitride:15, element:11, carbide:10, aluminide:1"
+0.5,1.0,20,0,"nitride:9, element:8, boride:2, carbide:1"
+0.5,1.5,3,0,element:3
+0.5,2.0,1,0,element:1
+1.0,0.0,249,32,"aluminide:77, nitride:47, silicide:40, boride:40, carbide:28, element:17"
+1.0,0.5,93,11,"boride:30, nitride:20, silicide:19, carbide:12, element:11, aluminide:1"
+1.0,1.0,25,0,"nitride:13, element:8, carbide:2, boride:2"
+1.0,1.5,3,0,element:3
+1.0,2.0,1,0,element:1
+1.5,0.0,270,32,"aluminide:83, nitride:54, boride:42, silicide:41, carbide:33, element:17"
+1.5,0.5,102,11,"boride:31, nitride:24, silicide:19, carbide:15, element:11, aluminide:2"
+1.5,1.0,29,0,"nitride:16, element:8, carbide:3, boride:2"
+1.5,1.5,3,0,element:3
+1.5,2.0,1,0,element:1

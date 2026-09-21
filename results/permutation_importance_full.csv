@@ -1,0 +1,17 @@
+feature,Ridge,RandomForest,XGBoost
+minimum MeltingT,-0.0013,0.0476,0.1579
+mode MeltingT,0.0002,0.0297,0.1074
+range MendeleevNumber,0.0016,0.0583,0.0428
+avg_dev NUnfilled,0.0101,0.0557,0.0304
+avg_dev GSvolume_pa,0.0018,0.0608,0.0258
+minimum CovalentRadius,0.0008,0.0476,0.0041
+band_gap,0.0247,0.0069,0.0205
+avg_dev MendeleevNumber,0.001,0.0242,0.0207
+avg_dev Electronegativity,0.0172,0.0065,0.0155
+avg_dev CovalentRadius,0.009,0.0118,0.0144
+vol_per_atom,0.014,0.0061,0.0102
+mode CovalentRadius,-0.0005,0.0232,0.0068
+range Electronegativity,0.0036,0.0163,0.0089
+mean MeltingT,-0.0006,0.0086,0.014
+minimum Electronegativity,0.0143,-0.0001,0.0038
+"(other 116 features, summed)",0.1356,0.0455,0.0935

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# transient files
+*.tmp
+data/entries/*.tmp
+
+# never commit credentials
+.env
+*.key

@@ -1,0 +1,119 @@
+830 MP entries, 67 chemical systems, 330 compositions
+  Ag-Al-Cl       1 compositions
+  Al-Cl          1 compositions
+  Al-Cl-Co       9 compositions
+  Al-Cl-Cr       6 compositions
+  Al-Cl-Cu       9 compositions
+  Al-Cl-Fe       11 compositions
+  Al-Cl-Mo       10 compositions
+  Al-Cl-Nb       5 compositions
+  Al-Cl-Ni       10 compositions
+  Al-Cl-Ta       8 compositions
+  Al-Cl-Ti       9 compositions
+  Al-Cl-V        11 compositions
+  Al-Cl-W        5 compositions
+  Al-Cl-Zr       11 compositions
+  Al-Au-Cl       1 compositions
+  Al-B-Cl-Cr     8 compositions
+  Al-B-Cl-Hf     4 compositions
+  Al-B-Cl-Mo     8 compositions
+  Al-B-Cl-Nb     6 compositions
+  Al-B-Cl-Ta     7 compositions
+  Al-B-Cl-Ti     5 compositions
+  Al-B-Cl-V      8 compositions
+  Al-B-Cl-W      6 compositions
+  Al-B-Cl-Zr     4 compositions
+  Al-C-Cl        1 compositions
+  Al-C-Cl-Cr     6 compositions
+  Al-C-Cl-Hf     2 compositions
+  Al-C-Cl-Mo     4 compositions
+  Al-C-Cl-Nb     6 compositions
+  Al-C-Cl-Ta     5 compositions
+  Al-C-Cl-Ti     7 compositions
+  Al-C-Cl-V      7 compositions
+  Al-C-Cl-W      4 compositions
+  Al-C-Cl-Zr     3 compositions
+  Al-Cl-Cr-N     5 compositions
+  Al-Cl-Cr-Si    5 compositions
+  Al-Cl-Hf       1 compositions
+  Al-Cl-Hf-N     6 compositions
+  Al-Cl-Mg       1 compositions
+  Al-Cl-Mo-N     6 compositions
+  Al-Cl-Mo-Si    6 compositions
+  Al-Cl-N-Nb     14 compositions
+  Al-Cl-N-Ta     9 compositions
+  Al-Cl-N-Ti     8 compositions
+  Al-Cl-N-V      7 compositions
+  Al-Cl-N-W      9 compositions
+  Al-Cl-N-Zr     6 compositions
+  Al-Cl-Nb-Si    4 compositions
+  Al-Cl-Ni-Si    7 compositions
+  Al-Cl-Pt       1 compositions
+  Al-Cl-Si-Ta    4 compositions
+  Al-Cl-Si-Ti    7 compositions
+  Al-Cl-Si-V     4 compositions
+  Al-Cl-Si-W     5 compositions
+  Al-Cl-Si-Zr    7 compositions
+
+Screening funnel
+                                  stage  count
+          MP entries in screening space    830
+                    unique compositions    330
+                pass F1 (E_hull window)    254
+                pass F1 + F2 (metallic)    250
+                        phi_ox >= 0.5 V     93
+                        phi_ox >= 1.0 V     25
+phi_ox >= 1.0 V and stable vs Al at 0 V      0
+ high-priority tier (Pareto layers 1-2)     22
+
+Sensitivity (E_hull window at 1.0x)
+ ehull_window_scale  anodic_cutoff_V  n_candidates  also_stable_vs_Al_at_0V                                                                 families
+                1.0              0.0           249                       32 aluminide:77, nitride:47, silicide:40, boride:40, carbide:28, element:17
+                1.0              0.5            93                       11  boride:30, nitride:20, silicide:19, carbide:12, element:11, aluminide:1
+                1.0              1.0            25                        0                               nitride:13, element:8, carbide:2, boride:2
+                1.0              1.5             3                        0                                                                element:3
+                1.0              2.0             1                        0                                                                element:1
+
+High- and medium-priority candidates for future validation
+formula    family  energy_above_hull  theoretical  phi_ox    ox_products    kind0     r0 pareto_layer            tier
+      C   element              0.003        False    2.06           CCl4 alloying -0.556            1   high priority
+     Au   element              0.000        False    1.73           AuCl alloying -1.485            1   high priority
+     Ag   element              0.000        False    1.13           AgCl alloying -0.097            1   high priority
+   NbB2    boride              0.000        False    0.93  BCl3 + Nb3Cl8 alloying -0.021            1   high priority
+   TiB2    boride              0.000        False    0.90   BCl3 + TiCl4   stable  0.000            1   high priority
+    VB2    boride              0.000        False    0.90 Al2VCl8 + BCl3   stable  0.000            1   high priority
+   V2B3    boride              0.000        False    0.59  Al2VCl8 + VB2   stable  0.000            1   high priority
+  Al6Fe aluminide              0.003        False    0.01        Al13Fe4   stable  0.000            1   high priority
+  Al10V aluminide              0.023        False    0.01           Al3V   stable  0.000            1   high priority
+     Pt   element              0.000        False    1.55          PtCl2 alloying -3.000            2   high priority
+   W2N3   nitride              0.000         True    1.30     N2 + WNCl3 alloying -1.912            2   high priority
+  Nb5N6   nitride              0.000        False    1.14     N2 + NbCl5 alloying -1.552            2   high priority
+     VN   nitride              0.000         True    1.13      N2 + VCl3 alloying -1.015            2   high priority
+     WC   carbide              0.000        False    1.11    C + W6CCl18 alloying -0.692            2   high priority
+     BW    boride              0.000        False    1.08    BCl3 + WCl2 alloying -0.258            2   high priority
+   B2Mo    boride              0.000        False    0.97     BCl3 + BMo alloying -0.171            2   high priority
+    B2W    boride              0.000        False    0.95      BCl3 + BW alloying -0.125            2   high priority
+ V3B100    boride              0.033         True    0.87     BCl3 + VB2 alloying -0.092            2   high priority
+   CrB4    boride              0.000        False    0.81      B + CrCl3   stable -0.000            2   high priority
+   TaB2    boride              0.000        False    0.75   BCl3 + TaCl5   stable  0.000            2   high priority
+ Al9Fe2 aluminide              0.018        False    0.01        Al13Fe4   stable  0.000            2   high priority
+ Al23V4 aluminide              0.021        False    0.01           Al3V   stable  0.000            2   high priority
+Mo15N16   nitride              0.000         True    1.17     MoCl2 + N2 alloying -1.920            3 medium priority
+  Nb2N3   nitride              0.017         True    1.14     N2 + NbCl5 alloying -1.769            3 medium priority
+  Nb4N5   nitride              0.032        False    1.14     N2 + NbCl5 alloying -1.592            3 medium priority
+     Co   element              0.000        False    1.13       Al2CoCl8 alloying -1.800            3 medium priority
+   V2N3   nitride              0.096         True    1.13      N2 + VCl3 alloying -1.484            3 medium priority
+   V3N4   nitride              0.177         True    1.13      N2 + VCl3 alloying -1.350            3 medium priority
+  Ta3N5   nitride              0.166        False    1.08     N2 + TaCl5 alloying -1.187            3 medium priority
+     Ni   element              0.000        False    1.07          NiCl2 alloying -1.620            3 medium priority
+     Cu   element              0.000        False    1.03        AlCuCl4 alloying -0.534            3 medium priority
+    BMo    boride              0.000        False    0.99   BCl3 + MoCl2 alloying -0.354            3 medium priority
+   B3Mo    boride              0.003         True    0.87    B2Mo + BCl3 alloying -0.153            3 medium priority
+  Nb2B3    boride              0.000        False    0.78  Nb3Cl8 + NbB2 alloying -0.080            3 medium priority
+  Ta3B4    boride              0.000        False    0.70   TaB2 + TaCl5   stable  0.000            3 medium priority
+  Mo2N3   nitride              0.156         True    1.17     MoCl2 + N2 alloying -2.136            4 medium priority
+    BW2    boride              0.000        False    1.03      BW + WCl2 alloying -0.545            4 medium priority
+  Nb3B4    boride              0.000        False    0.71 Nb2B3 + Nb3Cl8 alloying -0.115            4 medium priority
+   Si2W  silicide              0.000        False    0.69      SiCl4 + W alloying -0.078            4 medium priority
+  Ta5B6    boride              0.000        False    0.62  Ta3B4 + TaCl5 alloying -0.008            4 medium priority
+  CrSi2  silicide              0.000         True    0.59  CrCl3 + SiCl4   stable  0.000            4 medium priority

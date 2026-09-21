@@ -1,0 +1,439 @@
+====================================================================
+MATERIALS PROJECT MODE - target: formation energy per atom
+  Ti-N        16 entries
+  Zr-N        19 entries
+  Hf-N        16 entries
+  V-N         14 entries
+  Nb-N        24 entries
+  Ta-N        28 entries
+  Cr-N       103 entries
+  Mo-N        21 entries
+  W-N         29 entries
+  Ti-C         9 entries
+  Zr-C         6 entries
+  Hf-C         6 entries
+  V-C         12 entries
+  Nb-C        14 entries
+  Ta-C        10 entries
+  Cr-C         9 entries
+  Mo-C        11 entries
+  W-C         10 entries
+  Si-C        34 entries
+  Ti-B         7 entries
+  Zr-B         6 entries
+  Hf-B         4 entries
+  V-B          8 entries
+  Nb-B         6 entries
+  Ta-B         7 entries
+  Cr-B        11 entries
+  Mo-B        12 entries
+  W-B         10 entries
+  Ti-O       124 entries
+  Zr-O        31 entries
+  Hf-O        15 entries
+  V-O        211 entries
+  Nb-O        33 entries
+  Ta-O        43 entries
+  Cr-O        90 entries
+  Mo-O        70 entries
+  W-O         96 entries
+  Ti-Si       14 entries
+  Zr-Si       11 entries
+  V-Si         9 entries
+  Nb-Si       12 entries
+  Ta-Si        7 entries
+  Cr-Si        7 entries
+  Mo-Si        8 entries
+  W-Si         6 entries
+  Ni-Si       11 entries
+  Ti-P        10 entries
+  Mo-P        13 entries
+  W-P          6 entries
+  Fe-P         9 entries
+  Co-P         6 entries
+  Ni-P        15 entries
+  Cu-P         7 entries
+  Ti-S        41 entries
+  Mo-S        23 entries
+  W-S          9 entries
+  Co-S        12 entries
+  Ni-S        29 entries
+  Cu-S        32 entries
+  W            8 entries
+  Mo           8 entries
+  Ni           6 entries
+  Cu           8 entries
+  Ag           5 entries
+  Ti          10 entries
+  Ta          10 entries
+  Nb           6 entries
+  Cr           6 entries
+  Zr           6 entries
+  Hf           4 entries
+  V            3 entries
+  Fe          10 entries
+  Co           8 entries
+  Mg           9 entries
+  Al          10 entries
+  C           64 entries
+
+  1653 entries, 181 elemental (10.9% of rows)
+
+  dropped 87 of 1653 rows with energy_above_hull > 1.0 eV/atom
+group material_id formula  target  energy_above_hull
+ B-Ti    mp-10143     TiB   0.675              1.553
+    C  mp-1182029       C   1.002              1.002
+    C  mp-1245190       C   1.015              1.015
+    C   mp-723638       C   1.041              1.041
+    C  mp-1095534       C   1.123              1.123
+    C  mp-1205417       C   1.169              1.169
+    C   mp-624889       C   1.256              1.256
+    C  mp-1018088       C   1.306              1.306
+    C  mp-1197903       C   1.410              1.410
+    C   mp-731594       C   1.501              1.501
+    C  mp-1182684       C   1.530              1.530
+    C  mp-1196857       C   1.601              1.601
+    C  mp-1192619       C   1.920              1.920
+    C  mp-1097832       C   2.608              2.608
+    C  mp-1056957       C   2.618              2.618
+    C  mp-1181996       C   2.637              2.637
+    C   mp-998866       C   2.757              2.757
+ C-Hf   mp-976422    Hf3C   0.762              1.324
+ C-Hf  mp-1001918     HfC   0.216              1.339
+ C-Si   mp-972848    SiC3   2.136              2.289
+ C-Ta  mp-1009835     TaC   0.373              1.033
+ C-Ta  mp-1187218    Ta3C   0.918              1.427
+ C-Ta  mp-1217774    Ta2C   1.644              2.323
+ C-Ti  mp-1208199    TiC3   1.293              1.776
+  C-V  mp-1067129     VC3   2.212              2.503
+  C-W   mp-979413     W3C   1.254              1.331
+ C-Zr  mp-1188023    Zr3C   0.606              1.151
+ C-Zr  mp-1009878     ZrC   0.206              1.219
+ Cr-N  mp-1014509   Cr3N2   0.555              1.154
+ Cr-N  mp-1443809    CrN2   4.638              5.137
+ Cr-O  mp-1396459  Cr8O21  -0.688              1.030
+ Cr-O   mp-714896    Cr3O   0.082              1.068
+ Cr-O  mp-1206821    Cr2O   0.007              1.322
+ Cr-O    mp-20609    Cr3O   0.821              1.808
+ Cr-O  mp-1446026    CrO2  -0.136              1.911
+ Cr-O   mp-689946  Cr8O21   0.363              2.081
+   Cu  mp-1056079      Cu   1.983              1.983
+ Mo-N  mp-1059462     MoN   0.711              1.257
+ Mo-N     mp-2355     MoN   1.315              1.861
+ Mo-O  mp-1300873    MoO4   0.175              1.714
+ Mo-O  mp-1412175    MoO2   0.029              2.051
+ Mo-O  mp-1221492    Mo2O   1.447              2.458
+ Mo-S  mp-1211453    MoS6   0.880              1.294
+ Mo-S  mp-1239183    MoS3   0.772              1.497
+ N-Nb  mp-1220519   Nb4N3   0.069              1.202
+ N-Ta   mp-570454     TaN  -0.052              1.307
+ N-Ti   mp-980940    Ti3N   0.245              1.336
+ N-Ti   mp-980941    Ti3N   0.254              1.344
+  N-W  mp-1208477     WN6   2.211              2.410
+ N-Zr  mp-1008600    ZrN2  -0.250              1.191
+ N-Zr  mp-1188048    Zr3N   0.492              1.550
+ N-Zr  mp-1188007    Zr3N   0.501              1.559
+ Nb-O  mp-1186241    NbO3  -1.646              1.009
+ Ni-S   mp-849075    NiS2   0.512              1.104
+ O-Ta     mp-1895     TaO  -1.227              1.115
+ O-Ta   mp-979919    TaO3  -1.806              1.122
+ O-Ta    mp-27873    Ta2O   0.225              1.786
+ O-Ta  mp-1372329   Ta2O5  -0.379              2.967
+ O-Ta  mp-1343930  Ta11O2   7.520              8.241
+ O-Ta   mp-936295  Ta11O2   8.993              9.713
+ O-Ti  mp-1445035    TiO2  -0.764              2.745
+  O-V  mp-1179073    V3O8  -1.013              1.172
+  O-V   mp-714972     V8O   0.909              1.378
+  O-V    mp-30064   V16O3   0.729              1.396
+  O-V  mp-1396942     VO2  -0.189              2.334
+  O-V   mp-796380    V2O3   0.379              2.914
+  O-W  mp-1330336     WO3  -0.973              1.218
+  O-W  mp-1386422     WO3  -0.962              1.229
+  O-W  mp-1191069  W11O12  -0.340              1.254
+  O-W  mp-1179617  W17O47  -0.877              1.285
+  O-W  mp-1403606     WO2   0.083              2.120
+  O-W    mp-21369     W3O   2.342              3.106
+ S-Ti  mp-1008676    TiS2  -0.324              1.284
+ S-Ti  mp-1386900    TiS2  -0.224              1.384
+ S-Ti   mp-936075    TiS2   0.350              1.958
+ S-Ti  mp-1101100   Ti3S4   0.848              2.558
+ S-Ti  mp-1101023     TiS   1.132              2.851
+ Si-V   mp-571211    V3Si   0.621              1.118
+ Si-W   mp-570334    SiW3   1.356              1.469
+   Ta  mp-1217756      Ta   1.099              1.099
+   Ta   mp-697196      Ta   1.211              1.211
+   Ta  mp-1095086      Ta   1.329              1.329
+   Ta  mp-1217805      Ta   5.145              5.145
+   Ta  mp-1076923      Ta   5.146              5.146
+    W  mp-1191581       W   1.181              1.181
+    W  mp-1178801       W   1.198              1.198
+   Zr  mp-1178608      Zr   1.802              1.802
+  all 1653 retrieved entries written to results/mp_ml_dataset.csv
+  Magpie: 132 features from 471 unique formulas
+  dropped 6 Magpie features constant across this dataset
+====================================================================
+1566 samples, 76 groups; random 5-fold KFold, grouped LOGO, element LOEO
+  full              131 features
+  composition-only  127 features
+
+Chemical systems: 76 requested, 76 with rows, 76 groups in the modelling data
+           requested  with_rows  rows  row_share
+family                                          
+nitride            9          9   258      0.165
+carbide           10         10   110      0.070
+boride             9          9    70      0.045
+oxide              9          9   685      0.437
+silicide           9          9    83      0.053
+phosphide          7          7    66      0.042
+sulfide            6          6   138      0.088
+element           17         17   156      0.100
+
+Grouped folds (leave-one-group-out): 76
+ fold held_out    family  n_test  n_train  train_systems  test_target_std
+    0       Ag   element       5     1561             75            0.012
+    1       Al   element      10     1556             75            0.080
+    2     B-Cr    boride      11     1555             75            0.141
+    3     B-Hf    boride       4     1562             75            0.429
+    4     B-Mo    boride      12     1554             75            0.294
+    5     B-Nb    boride       6     1560             75            0.051
+    6     B-Ta    boride       7     1559             75            0.297
+    7     B-Ti    boride       6     1560             75            0.460
+    8      B-V    boride       8     1558             75            0.266
+    9      B-W    boride      10     1556             75            0.319
+   10     B-Zr    boride       6     1560             75            0.313
+   11        C   element      48     1518             75            0.312
+   12     C-Cr   carbide       9     1557             75            0.081
+   13     C-Hf   carbide       4     1562             75            0.313
+   14     C-Mo   carbide      11     1555             75            0.205
+   15     C-Nb   carbide      14     1552             75            0.272
+   16     C-Si   carbide      33     1533             75            0.318
+   17     C-Ta   carbide       7     1559             75            0.206
+   18     C-Ti   carbide       8     1558             75            0.444
+   19      C-V   carbide      11     1555             75            0.329
+   20      C-W   carbide       9     1557             75            0.287
+   21     C-Zr   carbide       4     1562             75            0.248
+   22       Co   element       8     1558             75            0.067
+   23     Co-P phosphide       6     1560             75            0.089
+   24     Co-S   sulfide      12     1554             75            0.205
+   25       Cr   element       6     1560             75            0.142
+   26     Cr-N   nitride     101     1465             75            0.221
+   27     Cr-O     oxide      84     1482             75            0.317
+   28    Cr-Si  silicide       7     1559             75            0.174
+   29       Cu   element       7     1559             75            0.069
+   30     Cu-P phosphide       7     1559             75            0.061
+   31     Cu-S   sulfide      32     1534             75            0.146
+   32       Fe   element      10     1556             75            0.227
+   33     Fe-P phosphide       9     1557             75            0.279
+   34       Hf   element       4     1562             75            0.081
+   35     Hf-N   nitride      16     1550             75            0.354
+   36     Hf-O     oxide      15     1551             75            0.091
+   37       Mg   element       9     1557             75            0.085
+   38       Mo   element       8     1558             75            0.221
+   39     Mo-N   nitride      19     1547             75            0.241
+   40     Mo-O     oxide      67     1499             75            0.344
+   41     Mo-P phosphide      13     1553             75            0.382
+   42     Mo-S   sulfide      21     1545             75            0.285
+   43    Mo-Si  silicide       8     1558             75            0.217
+   44     N-Nb   nitride      23     1543             75            0.190
+   45     N-Ta   nitride      27     1539             75            0.304
+   46     N-Ti   nitride      14     1552             75            0.247
+   47      N-V   nitride      14     1552             75            0.306
+   48      N-W   nitride      28     1538             75            0.242
+   49     N-Zr   nitride      16     1550             75            0.361
+   50       Nb   element       6     1560             75            0.136
+   51     Nb-O     oxide      32     1534             75            0.381
+   52    Nb-Si  silicide      12     1554             75            0.210
+   53       Ni   element       6     1560             75            0.286
+   54     Ni-P phosphide      15     1551             75            0.098
+   55     Ni-S   sulfide      28     1538             75            0.204
+   56    Ni-Si  silicide      11     1555             75            0.100
+   57     O-Ta     oxide      37     1529             75            0.850
+   58     O-Ti     oxide     123     1443             75            0.629
+   59      O-V     oxide     206     1360             75            0.345
+   60      O-W     oxide      90     1476             75            0.391
+   61     O-Zr     oxide      31     1535             75            0.857
+   62     P-Ti phosphide      10     1556             75            0.332
+   63      P-W phosphide       6     1560             75            0.304
+   64     S-Ti   sulfide      36     1530             75            0.238
+   65      S-W   sulfide       9     1557             75            0.399
+   66    Si-Ta  silicide       7     1559             75            0.077
+   67    Si-Ti  silicide      14     1552             75            0.312
+   68     Si-V  silicide       8     1558             75            0.058
+   69     Si-W  silicide       5     1561             75            0.263
+   70    Si-Zr  silicide      11     1555             75            0.277
+   71       Ta   element       5     1561             75            0.129
+   72       Ti   element      10     1556             75            0.084
+   73        V   element       3     1563             75            0.118
+   74        W   element       6     1560             75            0.265
+   75       Zr   element       5     1561             75            0.133
+  test rows per fold: min 3, median 10, max 206
+  training systems per fold: 75-75
+  0 folds hold one row (per-fold R2 undefined); 1 more have target std < 0.02 eV/atom
+
+Element folds (leave-one-element-out): 23
+element  systems_held  n_test
+     Ag             1       5
+     Al             1      10
+      B             9      70
+      C            11     158
+     Co             3      26
+     Cr             6     218
+     Cu             3      46
+     Fe             2      19
+     Hf             5      43
+     Mg             1       9
+     Mo             8     159
+      N             9     258
+     Nb             6      93
+     Ni             4      60
+      O             9     685
+      P             7      66
+      S             6     138
+     Si            10     116
+     Ta             6      90
+     Ti             8     221
+      V             6     250
+      W             8     163
+     Zr             6      73
+
+Leakage audit (target vs each column)
+--------------------------------------------------------------------
+           column     role  exact  spearman  solo_R2  grp_const         flags
+energy_above_hull excluded  0.089     0.187   -0.034      0.013 LEAK:identity
+  67 of 132 columns clean; group proxies listed in results/leakage_audit.csv
+
+  excluded energy_above_hull: E_hull = E_form - E_hull_convex(composition); computed from this entry's formation energy and its competitors'. Elemental hulls sit at 0, so E_hull == E_form exactly for every elemental entry.
+
+  64 of 131 features are group proxies (constant within a chemical
+  system - mostly Magpie minimum/maximum/range stats). The random split can
+  memorise families through them - trust the grouped CV.
+
+Model comparison - full (131 features; pooled, +/- group-bootstrap SE)
+--------------------------------------------------------------------
+       model       random_R2      random_MAE     random_RMSE      grouped_R2     grouped_MAE    grouped_RMSE      element_R2     element_MAE    element_RMSE
+       Ridge 0.948 +/- 0.014 0.192 +/- 0.013 0.263 +/- 0.016 0.888 +/- 0.023 0.302 +/- 0.025 0.385 +/- 0.025 0.801 +/- 0.032 0.398 +/- 0.048 0.514 +/- 0.059
+RandomForest 0.972 +/- 0.008 0.119 +/- 0.008 0.193 +/- 0.010 0.930 +/- 0.019 0.234 +/- 0.023 0.304 +/- 0.028 0.634 +/- 0.088 0.549 +/- 0.069 0.698 +/- 0.076
+     XGBoost 0.973 +/- 0.008 0.114 +/- 0.009 0.189 +/- 0.013 0.924 +/- 0.014 0.243 +/- 0.022 0.317 +/- 0.025 0.612 +/- 0.072 0.565 +/- 0.071 0.719 +/- 0.078
+
+Model comparison - full (131 features; balanced, +/- group-bootstrap SE)
+--------------------------------------------------------------------
+       model       random_R2      random_MAE     random_RMSE      grouped_R2     grouped_MAE    grouped_RMSE      element_R2     element_MAE    element_RMSE
+       Ridge 0.912 +/- 0.028 0.198 +/- 0.011 0.250 +/- 0.013 0.860 +/- 0.039 0.259 +/- 0.016 0.312 +/- 0.018 0.769 +/- 0.044 0.331 +/- 0.027 0.381 +/- 0.027
+RandomForest 0.951 +/- 0.015 0.134 +/- 0.008 0.186 +/- 0.010 0.921 +/- 0.021 0.199 +/- 0.012 0.236 +/- 0.013 0.742 +/- 0.038 0.327 +/- 0.032 0.377 +/- 0.033
+     XGBoost 0.949 +/- 0.016 0.130 +/- 0.008 0.183 +/- 0.011 0.920 +/- 0.021 0.199 +/- 0.012 0.238 +/- 0.013 0.737 +/- 0.031 0.324 +/- 0.034 0.370 +/- 0.035
+
+Feature importance - full (permutation, mean drop in held-out R2; top 15)
+--------------------------------------------------------------------
+C:\Users\chaud\anaconda3\Lib\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+                               Ridge  RandomForest  XGBoost
+minimum MeltingT             -0.0013        0.0476   0.1579
+mode MeltingT                 0.0002        0.0297   0.1074
+range MendeleevNumber         0.0016        0.0583   0.0428
+avg_dev NUnfilled             0.0101        0.0557   0.0304
+avg_dev GSvolume_pa           0.0018        0.0608   0.0258
+minimum CovalentRadius        0.0008        0.0476   0.0041
+band_gap                      0.0247        0.0069   0.0205
+avg_dev MendeleevNumber       0.0010        0.0242   0.0207
+avg_dev Electronegativity     0.0172        0.0065   0.0155
+avg_dev CovalentRadius        0.0090        0.0118   0.0144
+vol_per_atom                  0.0140        0.0061   0.0102
+mode CovalentRadius          -0.0005        0.0232   0.0068
+range Electronegativity       0.0036        0.0163   0.0089
+mean MeltingT                -0.0006        0.0086   0.0140
+minimum Electronegativity     0.0143       -0.0001   0.0038
+(other 116 features, summed)  0.1356        0.0455   0.0935
+
+Model comparison - composition-only (127 features; pooled, +/- group-bootstrap SE)
+--------------------------------------------------------------------
+       model       random_R2      random_MAE     random_RMSE      grouped_R2     grouped_MAE    grouped_RMSE      element_R2     element_MAE    element_RMSE
+       Ridge 0.940 +/- 0.017 0.208 +/- 0.014 0.283 +/- 0.017 0.870 +/- 0.027 0.336 +/- 0.025 0.416 +/- 0.024 0.747 +/- 0.035 0.451 +/- 0.051 0.581 +/- 0.066
+RandomForest 0.966 +/- 0.010 0.147 +/- 0.008 0.214 +/- 0.010 0.931 +/- 0.021 0.234 +/- 0.021 0.303 +/- 0.027 0.634 +/- 0.095 0.549 +/- 0.068 0.698 +/- 0.077
+     XGBoost 0.966 +/- 0.010 0.144 +/- 0.008 0.213 +/- 0.010 0.922 +/- 0.014 0.247 +/- 0.021 0.321 +/- 0.023 0.634 +/- 0.076 0.547 +/- 0.067 0.698 +/- 0.074
+
+Model comparison - composition-only (127 features; balanced, +/- group-bootstrap SE)
+--------------------------------------------------------------------
+       model       random_R2      random_MAE     random_RMSE      grouped_R2     grouped_MAE    grouped_RMSE      element_R2     element_MAE    element_RMSE
+       Ridge 0.893 +/- 0.034 0.222 +/- 0.012 0.276 +/- 0.015 0.825 +/- 0.047 0.295 +/- 0.019 0.349 +/- 0.020 0.706 +/- 0.048 0.369 +/- 0.031 0.421 +/- 0.032
+RandomForest 0.943 +/- 0.017 0.152 +/- 0.009 0.201 +/- 0.010 0.920 +/- 0.021 0.202 +/- 0.011 0.241 +/- 0.012 0.741 +/- 0.040 0.329 +/- 0.032 0.382 +/- 0.033
+     XGBoost 0.941 +/- 0.018 0.151 +/- 0.009 0.202 +/- 0.011 0.920 +/- 0.020 0.200 +/- 0.011 0.240 +/- 0.012 0.748 +/- 0.035 0.318 +/- 0.032 0.370 +/- 0.033
+
+Feature importance - composition-only (permutation, mean drop in held-out R2; top 15)
+--------------------------------------------------------------------
+                               Ridge  RandomForest  XGBoost
+minimum MeltingT              0.0018        0.0458   0.1574
+mode MeltingT                 0.0079        0.0268   0.0869
+avg_dev GSvolume_pa           0.0033        0.0618   0.0251
+range MendeleevNumber         0.0014        0.0465   0.0382
+avg_dev NUnfilled             0.0127        0.0510   0.0203
+minimum GSbandgap             0.0596       -0.0000   0.0000
+minimum CovalentRadius        0.0006        0.0501   0.0084
+avg_dev MendeleevNumber       0.0032        0.0237   0.0259
+avg_dev Electronegativity     0.0210        0.0099   0.0205
+avg_dev CovalentRadius        0.0116        0.0122   0.0201
+mode CovalentRadius          -0.0007        0.0318   0.0121
+range Electronegativity       0.0065        0.0161   0.0133
+mean MeltingT                 0.0036        0.0095   0.0152
+minimum Electronegativity     0.0194       -0.0005   0.0013
+mode GSbandgap                0.0182       -0.0000   0.0004
+(other 112 features, summed)  0.1493        0.0369   0.0950
+
+Cost of dropping DFT/structure features (grouped CV)
+--------------------------------------------------------------------
+       model  full R2 pooled comp-only R2 pooled  delta pooled full R2 balanced comp-only R2 balanced  delta balanced
+       Ridge 0.888 +/- 0.023     0.870 +/- 0.027        -0.019  0.860 +/- 0.039       0.825 +/- 0.047          -0.035
+RandomForest 0.930 +/- 0.019     0.931 +/- 0.021         0.000  0.921 +/- 0.021       0.920 +/- 0.021          -0.001
+     XGBoost 0.924 +/- 0.014     0.922 +/- 0.014        -0.002  0.920 +/- 0.021       0.920 +/- 0.020          -0.000
+
+====================================================================
+
+[full]
+  Best on grouped CV, pooled:   RandomForest (R2 0.930 +/- 0.019, MAE 0.234 +/- 0.023)
+  Best on grouped CV, balanced: RandomForest (R2 0.921 +/- 0.021, MAE 0.199 +/- 0.012)
+  Random-to-grouped R2 gap, pooled: 0.042 +/- 0.015
+    -> The gap is modest but real (> 2 SE).
+  Random-to-grouped R2 gap, balanced: 0.029 +/- 0.010
+    -> The gap is modest but real (> 2 SE).
+  Pooled minus balanced grouped R2 (RandomForest): 0.009 +/- 0.018
+    -> Pooled and balanced agree within 2 SE; the large systems are not distorting the headline.
+  Leave-one-element-out R2 (RandomForest): pooled 0.634 +/- 0.088, balanced 0.742 +/- 0.038
+    -> The drop from grouped to element (pooled) is large (> 2 SE).
+  RandomForest beats Ridge by only 0.042 +/- 0.021 pooled grouped R2 (Ridge 0.888 +/- 0.023).
+  Prefer Ridge - the interpretability is worth more than the marginal accuracy,
+  and it is a defensible choice to justify in a viva.
+
+[composition-only]
+  Best on grouped CV, pooled:   RandomForest (R2 0.931 +/- 0.021, MAE 0.234 +/- 0.021)
+  Best on grouped CV, balanced: RandomForest (R2 0.920 +/- 0.021, MAE 0.202 +/- 0.011)
+  Random-to-grouped R2 gap, pooled: 0.035 +/- 0.015
+    -> The gap is modest but real (> 2 SE).
+  Random-to-grouped R2 gap, balanced: 0.022 +/- 0.008
+    -> The gap is modest but real (> 2 SE).
+  Pooled minus balanced grouped R2 (RandomForest): 0.011 +/- 0.019
+    -> Pooled and balanced agree within 2 SE; the large systems are not distorting the headline.
+  Leave-one-element-out R2 (RandomForest): pooled 0.634 +/- 0.095, balanced 0.741 +/- 0.040
+    -> The drop from grouped to element (pooled) is large (> 2 SE).
+
+Limitations
+  - LOGO holds out one chemical system while its elements stay in training (N-Ti out,
+    Ti and C-Ti in): it tests an unseen SYSTEM, not an unseen ELEMENT. The element
+    split above is the harder test.
+  - For elemental systems E_hull == E_form exactly, so the E_hull <= 1.0 eV/atom filter
+    truncates their target range; R2 is scale-dependent, so these R2 values are not
+    comparable with an unfiltered study.
+
+Validation set for Phase 3 (literature ground truth):
+  W                stable    Established oxidatively stable collector in ADIBs
+  Mo               stable    Established oxidatively stable collector in ADIBs
+  glassy carbon    stable    Established oxidatively stable collector in ADIBs
+  TiN              stable    Oxidative stability on par with W and Mo in AlCl3:EMIMCl
+  graphite paper   works     Cycles stably as anodic current collector, anode-free cell
+  Ni               mixed     Cycles, but performance differs by corrosion resistance
+  Cu               mixed     Cycles, but performance differs by corrosion resistance
+  Ag               mixed     Cycles, but performance differs by corrosion resistance
+  Mg               mixed     Cycles, but performance differs by corrosion resistance
+  stainless steel  corrodes  Corrodes in chloroaluminate melts
+  Al               corrodes  Oxidised in Al anolytes at high cell voltages
+  Fe               corrodes  Oxidised in Al anolytes at high cell voltages
+
+Written to results/model_comparison.csv, results/leakage_audit.csv and results/oof_predictions.csv

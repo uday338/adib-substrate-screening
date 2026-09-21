@@ -1,0 +1,10 @@
+stage,count
+MP entries in screening space,830
+unique compositions,330
+pass F1 (E_hull window),254
+pass F1 + F2 (metallic),250
+phi_ox >= 0.5 V,93
+phi_ox >= 1.0 V,25
+phi_ox >= 1.0 V and stable vs Al at 0 V,0
+high-priority tier (Pareto layers 1-2),22
+high-priority tier and phi_ox >= 0.5 V (reported shortlist),18
